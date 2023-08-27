@@ -1,4 +1,4 @@
-🌱 I’m currently learning **C++, HTML and CSS**
+🌱 I’m currently learning **React**
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 <h3 align="left">Languages and Tools:</h3>
